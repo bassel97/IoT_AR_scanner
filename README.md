@@ -29,7 +29,7 @@ Early prototype with hardcoded data on a normal smart plug.
 |NetCam HD|**F7D7601fc**|Belkin|NetCam version 2.0.4|
 |Smart lamp|**B22**|Lifx|LIFX version 3.13.0|
 
-Data provided by Dr. [Alanoud Subahi](SubahiAT@cardiff.ac.uk)
+Data provided by Dr. [Alanoud Subahi](mailto:SubahiAT@cardiff.ac.uk)
 
 ## Future Work
 - Add 3D objects to the Vuforia database.
